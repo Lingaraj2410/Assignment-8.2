@@ -8,4 +8,4 @@ It will return a single string where all the elements of the array are separated
 
 # Solution:
 
-The PDF document posted in this repository shows the implementation of string concatenation along with screenshots of output.
+The PDF document posted in this repository shows the implementation of string concatenation as a UDF along with screenshots of output.
